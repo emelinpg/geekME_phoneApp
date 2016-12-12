@@ -21,8 +21,7 @@ as a translator to make the user sound cool!
 
 Tests
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
+![PtHhE3](http://i.makeagif.com/media/12-12-2016/PtHhE3.gif)
 
 License
 
