@@ -19,10 +19,12 @@ ___
 I wanted users to be able to find local events, comic book stors or upcommig events around them, this is why I decided to use the [Google Map API](https://developers.google.com/maps/documentation/javascript/adding-a-google-map). Also under the cool featured tab I used the [l33t sp34k](https://market.mashape.com/montanaflynn/l33t-sp34k).
 as a translator to make the user sound cool!
 
-Tests
+___
+### Contributors
+1. Submit a pull request
+2. Create a new branch `git branch *your branch name*`
+3. Make sure to work on your branch `git branch checkout *your branch name*`
 
 ![PtHhE3](http://i.makeagif.com/media/12-12-2016/PtHhE3.gif)
 
-License
 
-A short snippet describing the license (MIT, Apache, etc.)
